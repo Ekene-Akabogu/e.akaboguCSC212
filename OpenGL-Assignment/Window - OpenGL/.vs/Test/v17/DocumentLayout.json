@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Window - OpenGL\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F43DB0A3-CD56-40F5-BF01-65DE6D536169}|Test.vcxproj|C:\\Users\\user\\source\\repos\\Window - OpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F43DB0A3-CD56-40F5-BF01-65DE6D536169}|Test.vcxproj|C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F43DB0A3-CD56-40F5-BF01-65DE6D536169}|Test.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F43DB0A3-CD56-40F5-BF01-65DE6D536169}|Test.vcxproj|C:\\Users\\user\\source\\repos\\Window - OpenGL\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F43DB0A3-CD56-40F5-BF01-65DE6D536169}|Test.vcxproj|C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F43DB0A3-CD56-40F5-BF01-65DE6D536169}|Test.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "glad.c",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Window - OpenGL\\glad.c",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\glad.c",
               "RelativeDocumentMoniker": "glad.c",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Window - OpenGL\\glad.c",
+              "ToolTip": "C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\glad.c",
               "RelativeToolTip": "glad.c",
               "ViewState": "AQIAACMAAAAAAAAAAIApwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Window - OpenGL\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Window - OpenGL\\main.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\200 LVL - 2nd Semester\\PAU CSC 212\\e.akaboguCSC212\\OpenGL-Assignment\\Window - OpenGL\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "ViewState": "AQIAABMAAABAZmZmZqYowCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-29T11:30:35.293Z",
               "EditorCaption": ""
